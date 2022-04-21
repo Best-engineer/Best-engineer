@@ -2,9 +2,7 @@
 ==============
 ### This is Colin Koo. I'm a software developer. 
 ### :e-mail: E-Mail: kkm6101@gmail.com
-### :loop: Portfolio:
-### :telescope: Resume:
-### :pencil2: Blog:  
+### :telescope: Resume: [Click](https://whispering-lamp-4f0.notion.site/KWANMO-KOO-21ddbce18e5b46178443f5e2fbb12c22)
 <br><br/>  
 ### :running:Tech Stack
 #### Language
